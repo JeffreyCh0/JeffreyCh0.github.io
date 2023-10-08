@@ -70,11 +70,12 @@ for row, item in publications.iterrows():
     
     ## YAML variables
     
-    md = "---\ntitle: \""   + item.title + '"\n'
+    md = "---\ntitle:<a href='" + item.paper_url + "'>" + item.title + "</a>\n'"
     
     md += """collection: publications"""
     
-    md += """\npermalink: /publication/""" + html_filename
+    # md += """\npermalink: /publication/""" + html_filename
+
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
@@ -92,8 +93,8 @@ for row, item in publications.iterrows():
     
     ## Markdown description for individual page
     
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+    #if len(str(item.paper_url)) > 5:
+    #    md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
