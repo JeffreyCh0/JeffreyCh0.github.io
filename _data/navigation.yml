@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
         
-  - title: "CV"
-    url: /files/Young Min Cho CV.pdf
+#  - title: "CV"
+#    url: /files/Young Min Cho CV.pdf
 
-#  - title: "CV (From G-Drive)"
-#    url: https://docs.google.com/presentation/d/1MJifWQPaD3GtLlr2pd-JHuVr26Y8MGjaKjHL9c_hnUM/export/pdf?id=1MJifWQPaD3GtLlr2pd-JHuVr26Y8MGjaKjHL9c_hnUM
+  - title: "CV"
+    url: https://docs.google.com/presentation/d/1MJifWQPaD3GtLlr2pd-JHuVr26Y8MGjaKjHL9c_hnUM/export/pdf?id=1MJifWQPaD3GtLlr2pd-JHuVr26Y8MGjaKjHL9c_hnUM
