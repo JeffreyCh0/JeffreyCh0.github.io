@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Young Min Cho"
+title                    : "Jeffrey (Young-Min) Cho"
 title_separator          : "-"
-name                     : &name "Young Min Cho"
+name                     : &name "Jeffrey (Young-Min) Cho"
 description              : &description "personal description"
 url                      : https://jeffreych0.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
