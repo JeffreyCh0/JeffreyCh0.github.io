@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Young-Min Cho (go by Jeffrey), a first-year Ph.D. student in Computer and Information Science at the University of Pennsylvania, focusing on Natural Language Processing and Artificial Intelligence. As a member of [Penn NLP](https://nlp.cis.upenn.edu/), [WWBP](https://wwbp.org/) and [CSL](https://csl-lab-upenn.github.io/), I am advised by [Dr. Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and [Dr. Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu/).   
+Hi there! I am Young-Min Cho (go by Jeffrey), a Ph.D. student in Computer and Information Science at the University of Pennsylvania, focusing on Natural Language Processing and Artificial Intelligence. As a member of [Penn NLP](https://nlp.cis.upenn.edu/), [WWBP](https://wwbp.org/) and [CSL](https://csl-lab-upenn.github.io/), I am advised by [Dr. Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and [Dr. Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu/).   
 
 I'm deeply intrigued by the potential of Large Language Models and am keen on discovering innovative methods to address challenges. Lately, my focus has been on conversational agents, exploring research questions such as back-channeling, adequate response length, and multi-party conversations. Additionally, I have been engaging in computational social science projects, examining social and psychological insights derived from language-based assessment.
 
