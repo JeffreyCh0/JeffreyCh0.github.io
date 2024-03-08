@@ -1,7 +1,7 @@
 ---
 title: "Language-based EMA Assessments Help Understand Problematic Alcohol Consumption"
 collection: publications
-permalink: /publication/2024-03-1
+permalink: /publication/2024-03_alcohol
 excerpt: 'August Håkan Nilsson, Hansen Andrew Schwartz, Richard N Rosenthal, James McKay, Huy Vu, **Young-Min Cho**, Syeda Mahwish, Adithya V Ganesan, Lyle Ungar'
 date: 2024-03-07
 venue: 'PLOS ONE'
